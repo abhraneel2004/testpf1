@@ -1,0 +1,55 @@
+.image {
+    border-radius: 50%;
+}
+
+.custom-card {
+    border-color: #505050;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+.white-svg:hover {
+    fill: grey;
+}
+
+.btn-primary {
+    background-color: #A661FF;
+}
+
+.btn-primary:hover {
+    background-color: #7645b5;
+}
+
+.colorr {
+    color: #A661FF;
+    font-weight: bold;
+}
+
+.nav-link {
+    color: #A661FF;
+}
+.nav-link:hover {
+    color: rgb(193, 146, 255);
+}
+
+.active2 {
+    background-color: #A661FF;
+    background-color: rgba(166, 97, 255, 1);
+    color: #fff;
+    border-radius: 4px;
+}
+.active2:hover {
+    background-color: rgb(118, 69, 181);
+    color: #fff;
+    border-radius: 4px;
+}
+
+.navbar-brand{
+    color:white;
+}
+
+
+
+.progress-bar {
+    background-color: hwb(266 17% 0%);
+}
